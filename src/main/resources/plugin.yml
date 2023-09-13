@@ -1,0 +1,5 @@
+name: smp
+version: 1
+main: me.marvin.smp.Bootstrap
+author: nem marvin
+api-version: 1.13

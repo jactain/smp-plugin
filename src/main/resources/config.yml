@@ -1,0 +1,5 @@
+temporary-limits:
+  prefix: "smp."
+  permissions:
+    staff:
+      BAN: "7d"
